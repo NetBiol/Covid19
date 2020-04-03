@@ -10,8 +10,11 @@ Matthew Madgwick: Matthew.Madgwick at earlham.ac.uk\
 Main document of meeting notes:\
 https://docs.google.com/document/d/1UQChUgVMIImNMqrLVMaRY6eHMDVWNWQuzKKsUqAMVr8/edit?usp=sharing\
 
-Our group collected transcriptomic and other datasets:\
+Our group collected transcriptomic and other datasets (metadata tables and notes):\
 https://docs.google.com/spreadsheets/d/1t-cX1bX5NuxJDD-nqQz8lEl7gc4lPubMU3ISFV3ArDg/edit?usp=sharing\
+
+Rough notes regarding the Covid related papers (including those publishing transcriptomics datasets):\
+https://docs.google.com/document/d/11bjWLSqWtTWuTqBUOhcaXRWHZCEvVDC-b9TtXIt-6RQ/edit?usp=sharing\
 
 
 Our current ideas have three streams:\
