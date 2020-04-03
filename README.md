@@ -8,7 +8,11 @@ Lejla Gul: lejla.gul at earlham.ac.uk\
 Matthew Madgwick: Matthew.Madgwick at earlham.ac.uk\
 \
 Main document of meeting notes:\
-https://docs.google.com/document/d/1UQChUgVMIImNMqrLVMaRY6eHMDVWNWQuzKKsUqAMVr8/edit?usp=sharing
+https://docs.google.com/document/d/1UQChUgVMIImNMqrLVMaRY6eHMDVWNWQuzKKsUqAMVr8/edit?usp=sharing\
+
+Our group collected transcriptomic and other datasets:\
+https://docs.google.com/spreadsheets/d/1t-cX1bX5NuxJDD-nqQz8lEl7gc4lPubMU3ISFV3ArDg/edit?usp=sharing\
+
 
 Our current ideas have three streams:\
 Stream 1: Using connectivity mapping and ancedottal evidence for finding natural products agianst COVID-19 \
