@@ -26,21 +26,21 @@ https://docs.google.com/document/d/11bjWLSqWtTWuTqBUOhcaXRWHZCEvVDC-b9TtXIt-6RQ/
 
 Our current ideas have three streams:
 
-### Stream 1: **Using connectivity mapping and ancedottal evidence for finding natural products agianst COVID-19 
+### Stream 1: Using connectivity mapping and ancedottal evidence for finding natural products agianst COVID-19 
 
 Representative: Padhmanand Sudhakar
 
 Google docs: https://docs.google.com/document/d/1C_VB9wbK2bni5wY8f1ty9HrRaVTSwN8nSCcsE-2GfqE/edit?usp=sharing
 
 
-### Stream 2: **Locating the key cell types invovled in COVID-19 and mapping the COVID-19 proteins to the key cell transcripton factors through casual mapping
+### Stream 2: Locating the key cell types invovled in COVID-19 and mapping the COVID-19 proteins to the key cell transcripton factors through casual mapping
 
 Key representative: Agatha Treveil
 
 Google docs: https://docs.google.com/document/d/18ssKsbN6mdga2qG7u2cDeTKlbwXbepogzkDf__bDkRQ
 
 
-### Stream 3: **Using the cytokine storm caused by COVID-19 to find the possibility to understand how it is caused\ 
+### Stream 3: Using the cytokine storm caused by COVID-19 to find the possibility to understand how it is caused 
 
 Key representative: Marton Olbei
 
