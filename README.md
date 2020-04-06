@@ -46,3 +46,6 @@ Key representative: Marton Olbei
 
 Google docs: https://docs.google.com/document/d/1pTeXe2fAXasnNNCNK8CdyZhBaUn_z0lM3GgRNKC5j3s/edit?usp=sharing 
 
+### Location of large data storage:
+
+/group-gc/Projects/CovidOmix/data/
