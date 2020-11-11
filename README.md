@@ -1,4 +1,4 @@
-## This git repository is the home of Korcsmaros group COVID scripts.
+## This git repository is the home of Korcsmaros group COVID scripts
 
 If you have any questions feel free to ask to:
 
@@ -13,3 +13,5 @@ Padhmanand Sudhakar: padhmanand.sudhakar at earlham.ac.uk
 Lejla Gul: lejla.gul at earlham.ac.uk
 
 Matthew Madgwick: Matthew.Madgwick at earlham.ac.uk
+
+Tamas Korcsmaros: Tamas.Korcsmaros at earlham.ac.uk
