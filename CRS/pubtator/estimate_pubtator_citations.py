@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-#download data from pubtator website
+#download data from pubtator website ftp://ftp.ncbi.nlm.nih.gov/pub/lu/PubTatorCentral 
 #split to roughly 1 gb chunks: split -l 19783218 bioconcepts2pubtatorcentral
 
 cytokines = ["CCL2","CCL3","CCL4","CCL5","CCL8","CXCL1","CXCL10",

@@ -1,5 +1,7 @@
 #!/bin/sh
 
+#this script estimates the amount of literature published for each virus until the time we closed curation
+
 while read i 
 do
 echo "$i" >> SARS-CoV-2_biomedrxiv_hits.txt
